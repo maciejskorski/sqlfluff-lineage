@@ -1,6 +1,7 @@
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)]((https://nbviewer.org/github/maciejskorski/sqlfluff-lineage/blob/main/sqlfluff_lineage.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maciejskorski/sqlfluff-lineage/blob/main/sqlfluff_lineage.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/maciejskorski/sqlfluff-lineage/blob/main/sqlfluff_lineage.ipynb)
 
-# Lineage from sqlfluff
+# SQL Lineage with sqlfluff
 
 The repository shows how to use the sqlfluff parser to obtain the table lineage on complex ClickHouse queries.
 
