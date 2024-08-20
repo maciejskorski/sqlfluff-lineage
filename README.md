@@ -6,5 +6,5 @@ The main idea is to use [sqlfluff](https://github.com/sqlfluff/sqlfluff) as the 
 
 The final result, obtained on a large ClickHouse query, looks as below:
 
-![lineage_clickhouse.svg]
+![ClickHouse ETL lineage](lineage_clickhouse.svg)
 
